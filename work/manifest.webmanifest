@@ -1,11 +1,11 @@
 {
-  "name": "Work Tools",
+  "name": "Work Tools 2.0",
   "short_name": "Work Tools",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0e1c29",
-  "theme_color": "#0e1c29",
+  "background_color": "#f8f5ee",
+  "theme_color": "#f8f5ee",
   "icons": [
     {
       "src": "../icon.svg",
