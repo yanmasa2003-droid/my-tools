@@ -3,3 +3,12 @@ for(const t of TOOLS){const btn=document.createElement('button');btn.className='
 function openTool(id){const t=TOOLS.find(x=>x.id===id);if(!t)return;menu.style.display='none';pages.innerHTML=`<button class="back" id="back">← ツール一覧</button><section class="active"><h2>${t.name}</h2>${t.render()}</section>`;document.getElementById('back').onclick=()=>{pages.innerHTML='';menu.style.display='grid';history.replaceState(null,'',location.pathname)};history.replaceState(null,'','#'+id);t.init()}
 const initial=location.hash.slice(1);if(TOOLS.some(t=>t.id===initial))openTool(initial);
 if('serviceWorker'in navigator)window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js').catch(()=>{}));
+
+// ホーム画面から新しい公開版を確認できます。
+const updateButton=document.createElement('button');
+updateButton.className='back';
+updateButton.textContent='↻ 最新版を確認';
+updateButton.setAttribute('aria-label','最新版を確認して再読み込み');
+updateButton.onclick=()=>window.location.reload();
+document.querySelector('footer').appendChild(document.createElement('br'));
+document.querySelector('footer').appendChild(updateButton);
