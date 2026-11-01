@@ -1,0 +1,17 @@
+{
+  "name": "Work Tools",
+  "short_name": "Work Tools",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e1c29",
+  "theme_color": "#0e1c29",
+  "icons": [
+    {
+      "src": "../icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
