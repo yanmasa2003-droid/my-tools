@@ -1,0 +1,120 @@
+{
+  "format": "creative-notion-seed-v1",
+  "description": "Notionで確認できた現行設定の抜粋。名称・要約・原本URL。原本の完全同期ではない。",
+  "items": [
+    {
+      "type": "国家",
+      "title": "ミルグラム",
+      "detail": "長寿の職人・百年続く店・五道工学による近未来的な生活機器。 [出典: https://app.notion.com/p/13aa2135d57a806c84d3ceeaa3155707]",
+      "source": "https://app.notion.com/p/13aa2135d57a806c84d3ceeaa3155707"
+    },
+    {
+      "type": "国家",
+      "title": "ガンガード",
+      "detail": "記録から再演される旧市街・祭り・料理。再演と本人の生の違いがテーマ。 [出典: https://app.notion.com/p/3ffa2135d57a81c296ecf66579af9f99]",
+      "source": "https://app.notion.com/p/3ffa2135d57a81c296ecf66579af9f99"
+    },
+    {
+      "type": "国家",
+      "title": "アグニア",
+      "detail": "工芸・医療・修復、慰霊祭。悲しみを技術へ変える文化。 [出典: https://app.notion.com/p/13aa2135d57a802994ccef62b1810c07]",
+      "source": "https://app.notion.com/p/13aa2135d57a802994ccef62b1810c07"
+    },
+    {
+      "type": "国家",
+      "title": "アウヴァール王国",
+      "detail": "教育・研究・天文学・詩・外交・氷雪景観。 [出典: https://app.notion.com/p/13aa2135d57a80da8c88f7809cf003ce]",
+      "source": "https://app.notion.com/p/13aa2135d57a80da8c88f7809cf003ce"
+    },
+    {
+      "type": "国家",
+      "title": "鑑の国",
+      "detail": "契約・裁定・記録の真正性を重視する文化。 [出典: https://app.notion.com/p/13aa2135d57a8085ba32d28b97ad0182]",
+      "source": "https://app.notion.com/p/13aa2135d57a8085ba32d28b97ad0182"
+    },
+    {
+      "type": "国家",
+      "title": "烏の国",
+      "detail": "国際市場・情報売買・模造料理・他国文化の混在。 [出典: https://app.notion.com/p/139a2135d57a803da752cf36573d4270]",
+      "source": "https://app.notion.com/p/139a2135d57a803da752cf36573d4270"
+    },
+    {
+      "type": "人物",
+      "title": "カイ・ヴァンホープ",
+      "detail": "主人公。詳細はNotion原本参照。 [出典: https://app.notion.com/p/139a2135d57a80079fe4f46a13fc7bbb]",
+      "source": "https://app.notion.com/p/139a2135d57a80079fe4f46a13fc7bbb"
+    },
+    {
+      "type": "人物",
+      "title": "イーリス",
+      "detail": "主要人物。詳細はNotion原本参照。 [出典: https://app.notion.com/p/3e6a2135d57a81f5a205fcbf9554c78d]",
+      "source": "https://app.notion.com/p/3e6a2135d57a81f5a205fcbf9554c78d"
+    },
+    {
+      "type": "人物",
+      "title": "始末屋",
+      "detail": "主要人物。詳細はNotion原本参照。 [出典: https://app.notion.com/p/2bba2135d57a80a5a5fee4298f5e7385]",
+      "source": "https://app.notion.com/p/2bba2135d57a80a5a5fee4298f5e7385"
+    },
+    {
+      "type": "人物",
+      "title": "ダニエル・アールグレイ",
+      "detail": "人物設定の原本参照。 [出典: https://app.notion.com/p/139a2135d57a808b99efea4de93083d1]",
+      "source": "https://app.notion.com/p/139a2135d57a808b99efea4de93083d1"
+    },
+    {
+      "type": "人物",
+      "title": "グロリア・フィン・エリクス",
+      "detail": "人物設定の原本参照。 [出典: https://app.notion.com/p/139a2135d57a801da5d9f8c66999b149]",
+      "source": "https://app.notion.com/p/139a2135d57a801da5d9f8c66999b149"
+    },
+    {
+      "type": "能力",
+      "title": "五道・道技・絶技",
+      "detail": "世界の能力体系。詳細は現行正史の個別ページを参照。 [出典: https://app.notion.com/p/3f9a2135d57a812190b5c053b6b9080c]",
+      "source": "https://app.notion.com/p/3f9a2135d57a812190b5c053b6b9080c"
+    },
+    {
+      "type": "能力",
+      "title": "楔（シグナ）",
+      "detail": "楔の発現と律魂・定数律との関係。 [出典: https://app.notion.com/p/3f9a2135d57a8132ba08f5c6f672d24b]",
+      "source": "https://app.notion.com/p/3f9a2135d57a8132ba08f5c6f672d24b"
+    },
+    {
+      "type": "能力",
+      "title": "律魂",
+      "detail": "世界法則の重要要素。 [出典: https://app.notion.com/p/3f9a2135d57a8161b7e4cd172fb07e9f]",
+      "source": "https://app.notion.com/p/3f9a2135d57a8161b7e4cd172fb07e9f"
+    },
+    {
+      "type": "能力",
+      "title": "事象の重複《バレッタトレイン》",
+      "detail": "個別能力設定。 [出典: https://app.notion.com/p/3e6a2135d57a8189991debbd96b06b41]",
+      "source": "https://app.notion.com/p/3e6a2135d57a8189991debbd96b06b41"
+    },
+    {
+      "type": "組織",
+      "title": "五道院",
+      "detail": "絶技認定と保存に関わる国際機関。 [出典: https://app.notion.com/p/3f9a2135d57a8147b292f9ce478d87d9]",
+      "source": "https://app.notion.com/p/3f9a2135d57a8147b292f9ce478d87d9"
+    },
+    {
+      "type": "世界観",
+      "title": "神器",
+      "detail": "楔（シグナ）を取り込んだ器。 [出典: https://app.notion.com/p/3e6a2135d57a814bb8e4c072b27bc278]",
+      "source": "https://app.notion.com/p/3e6a2135d57a814bb8e4c072b27bc278"
+    },
+    {
+      "type": "世界観",
+      "title": "五道工学",
+      "detail": "制御素子や五道共振を応用する技術。万能増幅器ではない。 [出典: https://app.notion.com/p/3ffa2135d57a81c296ecf66579af9f99]",
+      "source": "https://app.notion.com/p/3ffa2135d57a81c296ecf66579af9f99"
+    },
+    {
+      "type": "世界観",
+      "title": "魂・五道研究史",
+      "detail": "発見・技術・五道の変遷。 [出典: https://app.notion.com/p/3f9a2135d57a819d8b66c3afe0aaa830]",
+      "source": "https://app.notion.com/p/3f9a2135d57a819d8b66c3afe0aaa830"
+    }
+  ]
+}
